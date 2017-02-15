@@ -5,8 +5,9 @@ I've created a 'Car Rental' application, that allows You to:
 - add loans
 - show accounts
 - show cars
-- show and manage loans
-There is weak validation on data fields (there is validation, but it's simple).
+- show and manage loans.
+
+There is weak validation on data fields (there is validation, but it's very simple, i wasn't focused on this).
 I'm using mySql database with jdbc driver, and JUnit ver. 3.8.1
 Patterns used: decorator, dao and template method. 
 Multi-layer app, using interfaces and abstraction. 
